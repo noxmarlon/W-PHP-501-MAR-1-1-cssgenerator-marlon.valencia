@@ -1,0 +1,48 @@
+$selector {
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 225px;
+    background-position: 0 0;
+}
+
+$selector {
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 576px;
+    background-position: 0 -225px;
+}
+
+$selector {
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    width: 1674px;
+    height: 1620px;
+    background-position: 0 -801px;
+}
+
+$selector {
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    width: 778px;
+    height: 1040px;
+    background-position: 0 -2421px;
+}
+
+$selector {
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 600px;
+    background-position: 0 -4041px;
+}
+
+$selector {
+    background-image: url('sprite.png');
+    background-repeat: no-repeat;
+    width: 1668px;
+    height: 1686px;
+    background-position: 0 -5661px;
+}
+
